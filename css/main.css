@@ -165,7 +165,7 @@ header h2 span {
     /* font-family: 'Montserrat', sans-serif; */
     font-size: 24px;
     color: #1f202b;
-    line-height: 25px;
+    line-height: 28px;
 }
 
 
@@ -182,7 +182,7 @@ header h2 span {
 }
          
 #portfolio img {
-    padding-bottom: 30px;
+    /* padding-bottom: 30px; */
 }
 
 #portfolio h2 {
@@ -218,6 +218,10 @@ header h2 span {
     font-size: 24pt;
     color: #ffffff;
     text-align: center; 
+}
+
+#portfolio #TypeMaster img {
+    border: 1px solid #b7b7b7;
 }
 
 /***** CONTACT *****/
