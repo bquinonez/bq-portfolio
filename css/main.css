@@ -12,7 +12,8 @@ header {
 }
 
 #portfolio {
-    height: 1550px;
+    /* height: 1550px; */
+    height: 1800px;
 }
 
 #contact {
@@ -182,8 +183,11 @@ header h2 span {
 }
          
 #portfolio img {
-    /* padding-bottom: 30px; */
+    padding-bottom: 25px;
+    /* padding-top: 25px; */
 }
+
+
 
 #portfolio h2 {
     font-family: 'Source Code Pro';
